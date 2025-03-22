@@ -39,6 +39,8 @@ From blank screens to living projects — loving every step of the craft!
 
 ## Consistently learning, evolving through every project, and building what I love!
 
+---
+
 ## Connect with Me
  
  <p align="start">
