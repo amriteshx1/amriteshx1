@@ -1,37 +1,54 @@
-# 👋 Hey there, I'm Amritesh Gautam!
+# 👋 Hey there, I'm Amritesh!
 
-### 💻 Frontend Developer in the making | Learning & Building every day  
-I love creating clean, responsive websites and interactive web apps. Currently focused on sharpening my JavaScript & React skills.
-
----
-
-## 🚀 Tech Stack  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+ A **2nd-year CSE (AI/ML)** undergrad, building at the intersection of code, creativity, and problem-solving.  
+From blank screens to living projects — loving every step of the craft!
 
 ---
 
-## 📂 Some of my featured projects  
-- [CV Generator](https://github.com/amriteshx1/cv-generator) — Create and preview résumés in real time with React.  
-- [Battleship Game](https://github.com/amriteshx1/battleship) — Classic turn-based Battleship game vs. computer.  
-- [Homepage](https://github.com/amriteshx1/homepage) — A fully responsive homepage design.  
-- [Restaurant Page](https://github.com/amriteshx1/restaurant-page) — A dynamic page generated entirely with JavaScript.  
+## What I’ve been up to:
+- Kicked things off with **C** & **Python**  
+- Fell in love with **Java** and problem-solving  
+- Moved into **Web Development** — built projects using **HTML, CSS, JavaScript**  
+- Currently working with **React** and diving deeper each day  
+- Always curious, always building!  
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amriteshx1&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amriteshx1&theme=radical" width="45%" />
+## Tech Stack:
+<p>
+  <img src="https://img.icons8.com/?size=70&id=8g6WJkjf0vaP&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=Nkym0Ujb8VGI&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=lTKW3iI3wIT0&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=pIJdjOoL6KfU&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=5cVdiiKKi0vX&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=zRvbzAjx4VWY&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=q89fSabiI5lg&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=20906&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=70&id=118553&format=png&color=000000"/>
 </p>
 
 ---
 
- 
-*“Still learning, still building, always growing.”* 🚀
+## Featured Projects:
+- **[CV Generator](https://github.com/amriteshx1/cv-generator)** — Build and preview résumés in real time with React  
+- **[Memory-Card](https://github.com/amriteshx1/memory-card)** — React-based memory game with API fetch and dynamic cards  
+- **[Battleship](https://github.com/amriteshx1/battleship)** — Classic turn-based Battleship game with random ship placement  
+- **[Restaurant Page](https://github.com/amriteshx1/restaurant-page)** — Entirely dynamic restaurant website using JavaScript  
 
 ---
 
+## Consistently learning, evolving through every project, and building what I love!
+
+## Connect with Me
+ 
+ <p align="start">
+   <a href="https://www.linkedin.com/in/amritesh-gautam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+     <img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000"/>
+   </a>
+   <a href="https://discord.com/users/1249969004185915508">
+     <img src="https://img.icons8.com/?size=40&id=30998&format=png&color=000000"/>
+   </a>
+   <a href="https://x.com/willBeTherex1?t=6KBvNdF6L0nEl0QtQBwhoQ&s=09">
+     <img src="https://img.icons8.com/?size=40&id=phOKFKYpe00C&format=png&color=000000"/>
+   </a>
+ </p>
