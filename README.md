@@ -30,10 +30,10 @@ From blank screens to living projects — loving every step of the craft!
 ---
 
 ## Featured Projects:
-- **[CV Generator](https://github.com/amriteshx1/cv-generator)** — Build and preview résumés in real time with React  
+- **[Luxcart](https://github.com/amriteshx1/luxcart)** — Sleek React shopping cart with real-time updates & modern UI
+- **[CV Generator](https://github.com/amriteshx1/cv-generator)** — Build and preview résumés in real time with React
 - **[Memory-Card](https://github.com/amriteshx1/memory-card)** — React-based memory game with API fetch and dynamic cards  
 - **[Battleship](https://github.com/amriteshx1/battleship)** — Classic turn-based Battleship game with random ship placement  
-- **[Restaurant Page](https://github.com/amriteshx1/restaurant-page)** — Entirely dynamic restaurant website using JavaScript  
 
 ---
 
